@@ -1,4 +1,5 @@
 #In this simple project, I used the React library and Sass for styling.I suppressed the information I received from a simple data by using the map method.I used the destructuring method before using this method.
+If you want to see live version you can click https://cozy-cendol-cf9174.netlify.app
 
 
 # Getting Started with Create React App
