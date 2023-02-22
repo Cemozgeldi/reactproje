@@ -1,0 +1,13 @@
+@import "./variables";
+.header {
+  background-color: $dark;
+  color: white;
+  text-align: center;
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  font-size: 3em;
+}
