@@ -1,3 +1,6 @@
+#In this simple project, I used the React library and Sass for styling.I suppressed the information I received from a simple data by using the map method.I used the destructuring method before using this method.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
